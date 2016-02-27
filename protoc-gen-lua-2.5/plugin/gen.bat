@@ -1,0 +1,1 @@
+@python27 "%~dp0protoc-gen-lua"
